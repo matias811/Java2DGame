@@ -5,46 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebbe3452-b307-4a5f-83af-cbf77fbefc35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/floor01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/grass00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/grass01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/hut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/road12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/table01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/water13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/maps/map01.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
