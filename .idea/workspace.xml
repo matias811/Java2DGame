@@ -5,10 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebbe3452-b307-4a5f-83af-cbf77fbefc35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_attack_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_axe_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Attacking sprites/boy_pick_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Guarding sprites/boy_guard_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Guarding sprites/boy_guard_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Guarding sprites/boy_guard_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/Guarding sprites/boy_guard_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/player/WalkingSprites/boy_up_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/KeyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/KeyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +82,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/matiassarrailh/Desktop/Java/Game Dev/FirstGame/resources"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/res" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
