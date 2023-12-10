@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebbe3452-b307-4a5f-83af-cbf77fbefc35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CollisionDetector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

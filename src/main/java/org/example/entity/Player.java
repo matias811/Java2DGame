@@ -23,6 +23,12 @@ public class Player extends Entity {
         screenX = gamePanel.screenWidth/2 - (gamePanel.actualTileSize/2);
         screenY = gamePanel.screenHeight/2 - (gamePanel.actualTileSize/2);
 
+        solidArea = new Rectangle();
+        solidArea.x = 8;
+        solidArea.y = 16;
+        solidArea.width = 32;
+        solidArea.height = 32;
+
         setDefaultAttributes();
         getPlayerImage();
     }
@@ -52,6 +58,9 @@ public class Player extends Entity {
                 direction = "left";
                 worldX -= speed;
             }
+
+            collisionOn = false;
+            gamePanel.collisionDetector.checkTile(this);
 
             spriteCounter++;
             if (spriteCounter > 12) {
