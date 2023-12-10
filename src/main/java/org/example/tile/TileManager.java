@@ -32,15 +32,18 @@ public class TileManager {
             tileLoaders.loadWaters(tile);
             // WALL
             tile[32] = new Tile();
+            tile[32].collision = true;
             tile[32].image = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/tiles/032.png")));
             // HUT
             tile[33] = new Tile();
+            tile[33].collision = true;
             tile[33].image = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/tiles/033.png")));
             // WOOD FLOOR
             tile[34] = new Tile();
             tile[34].image = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/tiles/034.png")));
             // TABLE
             tile[35] = new Tile();
+            tile[35].collision = true;
             tile[35].image = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/tiles/035.png")));
             // STAIRS
             tile[36] = new Tile();
