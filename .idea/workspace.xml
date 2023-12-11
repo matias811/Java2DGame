@@ -5,11 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebbe3452-b307-4a5f-83af-cbf77fbefc35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CollisionDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/axe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/blueheart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/chest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/chest_opened.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/coin_bronze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/door_iron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/heart_blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/heart_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/heart_half.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/lantern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/manacrystal_blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/manacrystal_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/pickaxe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/potion_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/shield_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/shield_wood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/sword_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/objects/tent.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollisionDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollisionDetector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileLoaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +68,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/matiassarrailh/Desktop/Java/Game Dev/FirstGame/src/main/resources/tiles"
+    "last_opened_file_path": "/Users/matiassarrailh/Desktop/Java/Game Dev/FirstGame/src/main/resources"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/tiles" />
       <recent name="$PROJECT_DIR$/resources" />
     </key>

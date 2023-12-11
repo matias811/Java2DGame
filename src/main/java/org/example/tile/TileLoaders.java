@@ -14,6 +14,8 @@ public class TileLoaders {
                 tile[i].image = ImageIO.read(Objects.requireNonNull(getClass().getResourceAsStream("/tiles/0" + i + ".png")));
             }
         }
+        // TREE TILE
+        tile[16].collision = true;
     }
 
     public void loadWaters(final Tile[] tile) throws IOException {

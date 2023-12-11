@@ -13,8 +13,8 @@ import java.util.Objects;
 public class TileManager {
 
     GamePanel gamePanel;
-    Tile[] tile;
-    int[][] mapTileNumber;
+    public Tile[] tile;
+    public int[][] mapTileNumber;
 
     public TileManager(final GamePanel gamePanel) {
         this.gamePanel = gamePanel;

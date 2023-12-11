@@ -44,23 +44,28 @@ public class Player extends Entity {
         if (keyHandler.upPressed || keyHandler.downPressed || keyHandler.leftPressed || keyHandler.rightPressed) {
             if (keyHandler.upPressed) {
                 direction = "up";
-                worldY -= speed;
             }
             if (keyHandler.rightPressed) {
                 direction = "right";
-                worldX += speed;
             }
             if (keyHandler.downPressed) {
                 direction = "down";
-                worldY += speed;
             }
             if (keyHandler.leftPressed) {
                 direction = "left";
-                worldX -= speed;
             }
 
             collisionOn = false;
             gamePanel.collisionDetector.checkTile(this);
+
+            if (!collisionOn) {
+                switch(direction) {
+                    case "up" -> worldY -= speed;
+                    case "right" -> worldX += speed;
+                    case "down" -> worldY += speed;
+                    case "left" -> worldX -= speed;
+                }
+            }
 
             spriteCounter++;
             if (spriteCounter > 12) {
