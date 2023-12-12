@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebbe3452-b307-4a5f-83af-cbf77fbefc35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AssetSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/SuperObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Lantern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Shield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Sword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/objects/chest (OLD).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AssetSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/objects/shield_blue.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,9 @@
       <recent name="$PROJECT_DIR$/src/res" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.object" />
     </key>
   </component>
   <component name="RunManager">
