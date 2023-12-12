@@ -15,6 +15,8 @@ public class Player extends Entity {
     KeyHandler keyHandler;
     public final int screenX;
     public final int screenY;
+    public int keys = 0;
+    public boolean sword = false;
 
     public Player(final GamePanel gamePanel, final KeyHandler keyHandler) {
         this.gamePanel = gamePanel;
@@ -26,6 +28,8 @@ public class Player extends Entity {
         solidArea = new Rectangle();
         solidArea.x = 8;
         solidArea.y = 16;
+        solidAreaDefaultX = solidArea.x;
+        solidAreaDefaultY = solidArea.y;
         solidArea.width = 32;
         solidArea.height = 32;
 
@@ -57,7 +61,8 @@ public class Player extends Entity {
 
             collisionOn = false;
             gamePanel.collisionDetector.checkTile(this);
-
+            int objIndex = gamePanel.collisionDetector.checkObject(this, true);
+            pickUpObject(objIndex);
             if (!collisionOn) {
                 switch(direction) {
                     case "up" -> worldY -= speed;
@@ -73,6 +78,22 @@ public class Player extends Entity {
                 else if (spriteNumber == 2) spriteNumber = 1;
                 spriteCounter = 0;
             }
+        }
+    }
+
+    public void pickUpObject(final int index) {
+        if (index != 999) {
+            switch (gamePanel.obj[index].name) {
+                case "Key" -> {
+                    keys++;
+                    System.out.println("Key Collected!");
+                }
+                case "Sword" -> {
+                    sword = true;
+                    System.out.println("Sword Collected");
+                }
+            }
+            gamePanel.obj[index] = null;
         }
     }
 

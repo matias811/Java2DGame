@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebbe3452-b307-4a5f-83af-cbf77fbefc35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Lantern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Shield.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object/OBJ_Sword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AssetSetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/objects/shield_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollisionDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CollisionDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/object/SuperObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/object/SuperObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
