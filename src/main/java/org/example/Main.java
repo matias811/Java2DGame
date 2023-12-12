@@ -21,6 +21,7 @@ public class Main {
         window.setVisible(true);
 
         // STARTING GAME "CLOCK"
+        gamePanel.setupGame();
         gamePanel.startGameThread();
     }
 }
